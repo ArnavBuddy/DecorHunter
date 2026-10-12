@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Environment files (contain secrets)
+.env
+.env.local
+.env.*.local
+
+# SQLite database file
+*.db
+*.db-journal
+
+# Editor
+.vscode/
+.DS_Store
+
+# Logs
+npm-debug.log*
